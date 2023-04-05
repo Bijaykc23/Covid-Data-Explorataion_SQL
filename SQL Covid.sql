@@ -3,7 +3,7 @@ Covid 19 Data Exploration
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Select,
 From, Where, Group BY
 */
-
+-- Have used PostgreSQL 15 server and pgAdmin 4
 
 Select * 
 from coviddeath
